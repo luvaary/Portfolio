@@ -13,7 +13,7 @@ export default function Footer() {
           </p>
         </div>
         <div className="footer-links">
-          
+          <a
             href="https://github.com/luvaary"
             target="_blank"
             rel="noopener noreferrer"
